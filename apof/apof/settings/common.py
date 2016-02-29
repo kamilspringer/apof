@@ -37,6 +37,7 @@ INSTALLED_APPS = [
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
+    'Aneta_Please_Order_Food',
 ]
 
 MIDDLEWARE_CLASSES = [
